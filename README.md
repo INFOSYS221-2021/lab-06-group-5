@@ -6,7 +6,7 @@ ricky xu - xxu281
 What is the type of collection used in the exercise?
 - Queue
 What are the different ways of iterating through a collection?
-- while loop, for loop
+- no
 How do you find out the size of a collection?
 -.qsize()
 How do you add an item to a collection? What happens if you try to add an item to a collection that is already full?
